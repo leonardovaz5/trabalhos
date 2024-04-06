@@ -16,6 +16,5 @@ def testa_triangulo():
     print(determina_tipo_triangulo(3, 4, 5)) # Escaleno
     print(determina_tipo_triangulo(1, 1, 4)) # Não é um triângulo
 
-# Executando o teste
 testa_triangulo()
 
