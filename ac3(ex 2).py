@@ -11,5 +11,4 @@ def testa_dia_semana():
     print(dia_semana(7)) # sábado
     print(dia_semana(9)) # string vazia
 
-# Executando o teste
 testa_dia_semana()
