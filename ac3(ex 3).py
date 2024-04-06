@@ -42,5 +42,4 @@ def calculadora():
         if continuar.lower() != 's':
             break
 
-# Testando a calculadora
 calculadora()
